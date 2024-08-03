@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Apache!"
+title:  "Welcome to Blog'Apache!"
 date:   2024-07-25 15:35:20 +0700
 categories: jekyll update
 ---
